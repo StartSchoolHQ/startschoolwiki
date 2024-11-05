@@ -22,7 +22,7 @@ Run the game with flags:
     ```bash 
     requests["Find all the actors who have not acted in any movie released between 1990 and 2000 (select only actor first name, last name, movie title and release year) sorted by actor ID)"]
     ```
-  - But Gandalf expects this array key (not the ending part):
+  - But Gandalf expects this array key (note the ending part):
     ```bash
     requests["Find all the actors who have not acted in any movie between 1990 and 2000 (select only actor first name, last name, movie title and release year)"]
     ```
