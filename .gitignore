@@ -5,6 +5,7 @@
 # Generated files
 .docusaurus
 .cache-loader
+yarn.lock
 
 # Misc
 .DS_Store
