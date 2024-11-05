@@ -1,7 +1,6 @@
 ---
 sidebar_label: 'My Allocine'
 sidebar_position: 6
-description: This project will tackle one of the main tool to work with Data. You've probably heard of this tool: SQL.
 ---
 
 # My Allocine
