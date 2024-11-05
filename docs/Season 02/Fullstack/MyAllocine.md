@@ -10,7 +10,7 @@ The sample database represents some of the data storage and retrieval about a mo
 ## 📝 Requirements
 
 - **Uses specified tables**: actors, genres, directors, movies, movies_genres, movies_actors, directors_movies, reviews, movies_ratings_reviews.
-- **Only queries array submitted**: Format ```bash requests[REQUEST_DESCRIPTION_1] = "SQL_REQUEST_1"```
+- **Only queries array submitted**: Format ```requests[REQUEST_DESCRIPTION_1] = "SQL_REQUEST_1"```
 
 ## 🛠️ Useful resources for accomplishing this task
 
