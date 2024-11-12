@@ -1,4 +1,9 @@
-# Python Quest02: Control Flow & Functions
+---
+sidebar_label: 'Quest02'
+sidebar_position: 2
+---
+
+# Python Quest02 - Control Flow & Functions
 
 Welcome to Python Quest02! This quest will introduce you to fundamental programming concepts including conditional statements, functions, loops, and return values. Let's master these building blocks of Python programming!
 

@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Quest03'
+sidebar_position: 3
+---
+
 # Python Quest03 - Basic Functions and Arguments
 
 Welcome to Python Quest03! This quest focuses on fundamental Python concepts including command-line arguments, conditional statements, basic arithmetic operations, and string formatting. You'll learn how to create simple functions that handle different data types and perform various operations.
