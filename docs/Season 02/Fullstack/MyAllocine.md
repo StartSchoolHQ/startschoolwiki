@@ -14,7 +14,7 @@ The sample database represents some of the data storage and retrieval about a mo
 
 ## 🛠️ Useful resources for accomplishing this task
 
-Run the game with flags:
+TODO
 
 ## 💡 Advice for completing the task
 - last query in the requirements is wrong. To successfully pass test, you need to change the array key to what Gandalf expects there
