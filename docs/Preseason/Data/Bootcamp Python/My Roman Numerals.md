@@ -61,7 +61,7 @@ This is simple, you've got this (Hint: roman numerals are not base five, they ar
 
 - No errors are expected, if you divide by zero, you probably missed a check somewhere.
 
-## 🛠️ Useful resources for acomplishing this task
-* A calculator to check your results. Link : [Roman numeral calulator](http://www.novaroma.org/via_romana/numbers.html)
+## 🛠️ Useful resources for accomplishing this task
+* A calculator to check your results. Link : [Roman numeral calculator](http://www.novaroma.org/via_romana/numbers.html)
 * Article on base conversion. Link : [Geeks for geeks: Number system and base conversions](https://www.geeksforgeeks.org/number-system-and-base-conversions/)
 * Algorithms for conversion to roman numerals. Link : [Medium: Eight algorithms for roman numerals](https://medium.com/@tomas.langkaas/eight-algorithms-for-roman-numerals-b06c83db12dd)

@@ -5,8 +5,6 @@ sidebar_position: 4
 
 # My First Scraper
 
-
-
 > Using python libraries requests and beautifulsoup4, return a CSV of the TOP 25 trending repositories from Github.
 >
 >    Request (with request)
@@ -47,8 +45,8 @@ sidebar_position: 4
 ## 📝 Game Rules/Task Requirements (Gandalf test requirements)
 
 The returned type from each function is important for gandalf tests. The return types are:
-- request_github_trending - <class 'requests.models.Response'>
-- extract - <class 'bs4.element.ResultSet'>
+- request_github_trending - `<class 'requests.models.Response'>`
+- extract - `<class 'bs4.element.ResultSet'>`
 - transform - []
 - format - string
 
@@ -65,7 +63,6 @@ The returned type from each function is important for gandalf tests. The return 
 - Simple try-except wrap for the file reading
 
 
-## 🛠️ Useful resources for acomplishing this task
-* <Beutiful soup docs>
-* <>
-*
+## 🛠️ Useful resources for accomplishing this task
+* Beautiful soup documentation: [Beautiful soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+* Github Trending page: [Github Trending](https://github.com/trending)
