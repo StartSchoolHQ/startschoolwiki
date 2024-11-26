@@ -41,5 +41,5 @@ This is simple, you've got this (Hint: print everything you read).
 
 - Simple try-except wrap for the file reading
 
-## 🛠️ Useful resources for acomplishing this task
+## 🛠️ Useful resources for accomplishing this task
 * man cat - linux manual for cat program, reference it if any further details on the program are required. Link : [Cat description from linux manual](https://www.man7.org/linux/man-pages/man1/cat.1.html)
