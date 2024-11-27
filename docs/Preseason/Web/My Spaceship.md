@@ -85,6 +85,13 @@ When coding the program, watch out for common issues that cause errors:
 - **Array Methods [Cheat Sheet 1](https://clubmate.fi/array-cheat-sheet) & [Cheat Sheet 2](https://array-methods.github.io/)**
 - [**String Methods Cheat Sheet**](https://techtalkbook.com/string-methods-cheatsheet-in-javascript/)
 
+### Practice Platforms
+- [**CodeWars**](https://www.codewars.com/)
+- [**Exercism**](https://exercism.org/)
+- [**JSchallenger**](https://jschallenger.com/)
+- [**Edabit**](https://edabit.com/)
+- [**LeetCode**](https://leetcode.com/)
+
 ### Advice for completing the tasks
 1. Make sure to put a semicolon `;` after each JavaScript statement.
 2. Make sure to save `Ctrl + S` minor changes & Git push major ones.
