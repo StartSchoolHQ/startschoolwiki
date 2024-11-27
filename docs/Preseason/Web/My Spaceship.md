@@ -88,4 +88,4 @@ When coding the program, watch out for common issues that cause errors:
 ### Advice for completing the tasks
 1. Make sure to put a semicolon `;` after each JavaScript statement.
 2. Make sure to save `Ctrl + S` minor changes & Git push major ones.
-3. [Use Google to your advantage!](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/)
+3. [Use Google to your advantage!](https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/) You can also check out [this](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) article on problem-solving :)
