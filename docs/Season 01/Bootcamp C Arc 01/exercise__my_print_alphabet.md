@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # my_print_alphabet
 
-In this quest, you will create a function that displays the alphabet in lowercase on a single line, starting with the letter 'a' and ending with 'z'. Each character will be printed sequentially in ascending order, followed by a newline character.
+In this exercise, you will create a function that displays the alphabet in lowercase on a single line, starting with the letter 'a' and ending with 'z'. Each character will be printed sequentially in ascending order, followed by a newline character.
 
 ## 🚀 Key Features
 

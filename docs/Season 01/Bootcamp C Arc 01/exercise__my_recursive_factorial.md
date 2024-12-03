@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'my_recursive_factorial'
+sidebar_label: '(exercise) my_recursive_factorial'
 sidebar_position: 8
 ---
 
