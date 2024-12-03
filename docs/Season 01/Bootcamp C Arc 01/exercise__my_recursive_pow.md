@@ -15,8 +15,7 @@ In this exercise, you will implement a function to calculate the power of a numb
 
 ## 📝 Task Requirements
 
-1. **No Test Files**: Do not include any test files in your submissions
-2. **Gandalf Testing**: All exercises must pass the gandalf test
+1. **Gandalf Testing**: All exercises must pass the gandalf test
 
 ---
 
