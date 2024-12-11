@@ -8,9 +8,9 @@
 8. First Readme (importance of readmes)
 9. Create a group (this will happen with time, no need to rush forwards)
 
-Here’s the raw Markdown text for you to copy and paste into a `.md` file:
 
-```markdown
+
+
 ### Discord Connection: How to Find Help
 Discord serves as a central communication hub for collaboration and problem-solving. To find help, start by joining your designated server and locating the appropriate channel for your query (e.g., #tech-support or #general-questions). Be specific and concise when asking questions to ensure others can provide accurate assistance. Additionally, explore pinned messages and search the channel history for similar issues and solutions.
 
