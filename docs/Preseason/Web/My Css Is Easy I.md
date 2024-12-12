@@ -34,3 +34,5 @@ Welcome to the **My CSS is Easy I**, where you'll learn to create a flexible and
 - **Improper Layout**: Any use of float instead of Flexbox will be marked as incorrect.
 - **Unclear Section Names**: Ensure each `div` is named appropriately for clarity.
 - **Missing Files**: Ensure both `index.html` and `style.css` are included.
+
+*Side note for **StartSchoolers**: consider checking out **StartSchool Riga HQ** document on [coda.io](https://coda.io/) for more useful resources & information!*
